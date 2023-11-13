@@ -1,0 +1,18 @@
+strash
+print_stats
+balance
+ochestration -x res -y rwr -z ref
+ochestration -x res -y rwr -z ref
+balance
+ochestration -x res -y rwr -z ref
+#balance
+print_stats
+#read 7nm_lvt_ff.lib
+#dch
+map -B 0.9 -p
+topo
+stime -c
+buffer -c
+upsize -c
+dnsize -c
+print_stats
